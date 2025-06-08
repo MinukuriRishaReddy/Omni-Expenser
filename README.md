@@ -1,2 +1,31 @@
-# Omni-Expenser
-Omni Expenser is a Streamlit app for user login, tracking daily expenses, and managing spending limits based on income and savings to help control finances easily.
+# Omni Expenser
+
+Omni Expenser is a Streamlit app that helps users register, log in, and track daily expenses. It calculates personalized spending limits based on income and savings to manage finances better.
+
+## Features
+
+- User registration and login  
+- Input income, savings, and days  
+- Calculates daily spending limit  
+- Add and track expenses  
+- Alerts on overspending  
+- View expense history  
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/omni-expenser.git
+cd omni-expenser
+pip install streamlit
+streamlit run expense_app.py
+
+Future Improvements
+Persistent database integration
+
+Password hashing for security
+
+UPI payment integration
+
+Expense charts and graphs
+
+Enhanced UI and animations
