@@ -11,7 +11,8 @@ Omni Expenser is a Streamlit app that helps users register, log in, and track da
 - Alerts on overspending  
 - View expense history  
 
-## Deployed Link : https://omni-expenser-2dvy3nbeyyqqwc8evwijnw.streamlit.app/
+## Deployed Link : 
+https://omni-expenser-2dvy3nbeyyqqwc8evwijnw.streamlit.app/
 
 
 ## Installation
