@@ -29,3 +29,4 @@ UPI payment integration
 Expense charts and graphs
 
 Enhanced UI and animations
+Deployed Link : https://omni-expenser-2dvy3nbeyyqqwc8evwijnw.streamlit.app/
