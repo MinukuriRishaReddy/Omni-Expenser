@@ -17,7 +17,7 @@ Omni Expenser is a Streamlit app that helps users register, log in, and track da
 git clone https://github.com/yourusername/omni-expenser.git
 cd omni-expenser
 pip install streamlit
-streamlit run expense_app.py
+streamlit run expense.py
 
 Future Improvements
 Persistent database integration
